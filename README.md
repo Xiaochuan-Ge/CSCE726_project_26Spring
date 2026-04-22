@@ -3,6 +3,9 @@
 Course project repository for **CSCE 726 / Optimization for ML**.  
 This repo studies practical modifications of **SCENT** for extreme classification on the **TreeOfLife-10M subset** using the provided starter code and pre-extracted features.
 
+## Model Download
+We keep the model of last epoch for every experiment. You can [download our model here](https://drive.google.com/file/d/11bWb_-FRdTiVW-QHUKEACDxXuT46zpXd/view?usp=sharing).
+
 ## Project goal
 
 The starter baseline is a linear classifier trained with the **SCENT** algorithm on a large extreme-classification problem.  
