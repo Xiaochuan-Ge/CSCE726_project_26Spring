@@ -1,0 +1,741 @@
+2026-04-21,03:59:48 | INFO | Set random seed to 2026
+2026-04-21,03:59:52 | INFO | exp4_cfg02_scent_warmup_ref | Epoch 1/20, learning_rate=0.001000
+2026-04-21,03:59:52 | INFO |   Batch 0 / 5959: loss=1.000000 cross_entropy_loss=12.003008
+2026-04-21,03:59:54 | INFO |   Batch 200 / 5959: loss=1.000000 cross_entropy_loss=11.993399
+2026-04-21,03:59:55 | INFO |   Batch 400 / 5959: loss=1.000000 cross_entropy_loss=11.982896
+2026-04-21,03:59:57 | INFO |   Batch 600 / 5959: loss=1.000000 cross_entropy_loss=11.955412
+2026-04-21,03:59:59 | INFO |   Batch 800 / 5959: loss=1.000000 cross_entropy_loss=11.953843
+2026-04-21,04:00:00 | INFO |   Batch 1000 / 5959: loss=1.000000 cross_entropy_loss=11.898155
+2026-04-21,04:00:02 | INFO |   Batch 1200 / 5959: loss=1.000000 cross_entropy_loss=11.896458
+2026-04-21,04:00:04 | INFO |   Batch 1400 / 5959: loss=1.000000 cross_entropy_loss=11.909180
+2026-04-21,04:00:05 | INFO |   Batch 1600 / 5959: loss=1.000000 cross_entropy_loss=11.807539
+2026-04-21,04:00:07 | INFO |   Batch 1800 / 5959: loss=1.000000 cross_entropy_loss=11.834532
+2026-04-21,04:00:08 | INFO |   Batch 2000 / 5959: loss=1.000000 cross_entropy_loss=11.817402
+2026-04-21,04:00:10 | INFO |   Batch 2200 / 5959: loss=1.000000 cross_entropy_loss=11.830061
+2026-04-21,04:00:12 | INFO |   Batch 2400 / 5959: loss=1.000000 cross_entropy_loss=11.854229
+2026-04-21,04:00:13 | INFO |   Batch 2600 / 5959: loss=1.000000 cross_entropy_loss=11.696774
+2026-04-21,04:00:15 | INFO |   Batch 2800 / 5959: loss=1.000000 cross_entropy_loss=11.786816
+2026-04-21,04:00:17 | INFO |   Batch 3000 / 5959: loss=1.000000 cross_entropy_loss=11.830835
+2026-04-21,04:00:18 | INFO |   Batch 3200 / 5959: loss=1.000000 cross_entropy_loss=11.787168
+2026-04-21,04:00:20 | INFO |   Batch 3400 / 5959: loss=1.000000 cross_entropy_loss=11.728025
+2026-04-21,04:00:21 | INFO |   Batch 3600 / 5959: loss=1.000000 cross_entropy_loss=11.709993
+2026-04-21,04:00:23 | INFO |   Batch 3800 / 5959: loss=1.000000 cross_entropy_loss=11.625668
+2026-04-21,04:00:25 | INFO |   Batch 4000 / 5959: loss=1.000000 cross_entropy_loss=11.752423
+2026-04-21,04:00:26 | INFO |   Batch 4200 / 5959: loss=1.000000 cross_entropy_loss=11.597458
+2026-04-21,04:00:28 | INFO |   Batch 4400 / 5959: loss=1.000000 cross_entropy_loss=11.671356
+2026-04-21,04:00:30 | INFO |   Batch 4600 / 5959: loss=1.000000 cross_entropy_loss=11.622958
+2026-04-21,04:00:31 | INFO |   Batch 4800 / 5959: loss=1.000000 cross_entropy_loss=11.613525
+2026-04-21,04:00:33 | INFO |   Batch 5000 / 5959: loss=1.000000 cross_entropy_loss=11.763353
+2026-04-21,04:00:34 | INFO |   Batch 5200 / 5959: loss=1.000000 cross_entropy_loss=11.690807
+2026-04-21,04:00:36 | INFO |   Batch 5400 / 5959: loss=1.000000 cross_entropy_loss=11.397429
+2026-04-21,04:00:38 | INFO |   Batch 5600 / 5959: loss=1.000000 cross_entropy_loss=11.572496
+2026-04-21,04:00:39 | INFO |   Batch 5800 / 5959: loss=1.000000 cross_entropy_loss=11.289370
+2026-04-21,04:00:41 | INFO | Evaluating on validation set
+2026-04-21,04:00:41 | INFO |   Batch 0 / 745: loss=11.502296
+2026-04-21,04:00:41 | INFO |   Batch 200 / 745: loss=11.476789
+2026-04-21,04:00:41 | INFO |   Batch 400 / 745: loss=11.575806
+2026-04-21,04:00:42 | INFO |   Batch 600 / 745: loss=11.423005
+2026-04-21,04:00:42 | INFO | exp4_cfg02_scent_warmup_ref | epoch=1 train_ce=11.748723 val_loss=11.499575 val_acc=0.133902 best_val_acc=0.133902 best_test_acc=0.000000
+2026-04-21,04:00:43 | INFO | exp4_cfg02_scent_warmup_ref | Epoch 2/20, learning_rate=0.002000
+2026-04-21,04:00:43 | INFO |   Batch 0 / 5959: loss=0.943025 cross_entropy_loss=11.696354
+2026-04-21,04:00:44 | INFO |   Batch 200 / 5959: loss=0.947695 cross_entropy_loss=11.677389
+2026-04-21,04:00:46 | INFO |   Batch 400 / 5959: loss=0.876388 cross_entropy_loss=11.367977
+2026-04-21,04:00:48 | INFO |   Batch 600 / 5959: loss=0.873118 cross_entropy_loss=11.193081
+2026-04-21,04:00:49 | INFO |   Batch 800 / 5959: loss=0.905161 cross_entropy_loss=11.424785
+2026-04-21,04:00:51 | INFO |   Batch 1000 / 5959: loss=0.887950 cross_entropy_loss=11.403952
+2026-04-21,04:00:52 | INFO |   Batch 1200 / 5959: loss=0.890343 cross_entropy_loss=11.413145
+2026-04-21,04:00:54 | INFO |   Batch 1400 / 5959: loss=0.915838 cross_entropy_loss=11.496626
+2026-04-21,04:00:56 | INFO |   Batch 1600 / 5959: loss=0.880001 cross_entropy_loss=11.412421
+2026-04-21,04:00:57 | INFO |   Batch 1800 / 5959: loss=0.873613 cross_entropy_loss=11.390970
+2026-04-21,04:00:59 | INFO |   Batch 2000 / 5959: loss=0.860285 cross_entropy_loss=11.266381
+2026-04-21,04:01:01 | INFO |   Batch 2200 / 5959: loss=0.859802 cross_entropy_loss=11.218827
+2026-04-21,04:01:02 | INFO |   Batch 2400 / 5959: loss=0.834684 cross_entropy_loss=11.065730
+2026-04-21,04:01:04 | INFO |   Batch 2600 / 5959: loss=0.891567 cross_entropy_loss=11.336167
+2026-04-21,04:01:05 | INFO |   Batch 2800 / 5959: loss=0.868832 cross_entropy_loss=11.321106
+2026-04-21,04:01:07 | INFO |   Batch 3000 / 5959: loss=0.843965 cross_entropy_loss=11.210528
+2026-04-21,04:01:09 | INFO |   Batch 3200 / 5959: loss=0.864131 cross_entropy_loss=11.350290
+2026-04-21,04:01:10 | INFO |   Batch 3400 / 5959: loss=0.838367 cross_entropy_loss=11.241042
+2026-04-21,04:01:12 | INFO |   Batch 3600 / 5959: loss=0.881377 cross_entropy_loss=11.433214
+2026-04-21,04:01:13 | INFO |   Batch 3800 / 5959: loss=0.861916 cross_entropy_loss=11.363358
+2026-04-21,04:01:15 | INFO |   Batch 4000 / 5959: loss=0.891412 cross_entropy_loss=11.492952
+2026-04-21,04:01:17 | INFO |   Batch 4200 / 5959: loss=0.865635 cross_entropy_loss=11.333245
+2026-04-21,04:01:18 | INFO |   Batch 4400 / 5959: loss=0.835382 cross_entropy_loss=11.202959
+2026-04-21,04:01:20 | INFO |   Batch 4600 / 5959: loss=0.849744 cross_entropy_loss=11.235832
+2026-04-21,04:01:22 | INFO |   Batch 4800 / 5959: loss=0.872455 cross_entropy_loss=11.428324
+2026-04-21,04:01:23 | INFO |   Batch 5000 / 5959: loss=0.832502 cross_entropy_loss=11.251438
+2026-04-21,04:01:25 | INFO |   Batch 5200 / 5959: loss=0.840798 cross_entropy_loss=11.246436
+2026-04-21,04:01:26 | INFO |   Batch 5400 / 5959: loss=0.852066 cross_entropy_loss=11.365711
+2026-04-21,04:01:28 | INFO |   Batch 5600 / 5959: loss=0.809276 cross_entropy_loss=11.074728
+2026-04-21,04:01:30 | INFO |   Batch 5800 / 5959: loss=0.843675 cross_entropy_loss=11.291535
+2026-04-21,04:01:31 | INFO | Evaluating on validation set
+2026-04-21,04:01:31 | INFO |   Batch 0 / 745: loss=11.271040
+2026-04-21,04:01:31 | INFO |   Batch 200 / 745: loss=11.219225
+2026-04-21,04:01:32 | INFO |   Batch 400 / 745: loss=11.358252
+2026-04-21,04:01:32 | INFO |   Batch 600 / 745: loss=11.162497
+2026-04-21,04:01:32 | INFO | exp4_cfg02_scent_warmup_ref | epoch=2 train_ce=11.355745 val_loss=11.264043 val_acc=0.139304 best_val_acc=0.139304 best_test_acc=0.000000
+2026-04-21,04:01:33 | INFO | exp4_cfg02_scent_warmup_ref | Epoch 3/20, learning_rate=0.001985
+2026-04-21,04:01:33 | INFO |   Batch 0 / 5959: loss=0.874832 cross_entropy_loss=11.304501
+2026-04-21,04:01:35 | INFO |   Batch 200 / 5959: loss=0.840523 cross_entropy_loss=11.152798
+2026-04-21,04:01:36 | INFO |   Batch 400 / 5959: loss=0.817590 cross_entropy_loss=10.995252
+2026-04-21,04:01:38 | INFO |   Batch 600 / 5959: loss=0.851132 cross_entropy_loss=11.192596
+2026-04-21,04:01:39 | INFO |   Batch 800 / 5959: loss=0.828495 cross_entropy_loss=11.051537
+2026-04-21,04:01:41 | INFO |   Batch 1000 / 5959: loss=0.842652 cross_entropy_loss=11.174620
+2026-04-21,04:01:43 | INFO |   Batch 1200 / 5959: loss=0.825875 cross_entropy_loss=11.084506
+2026-04-21,04:01:44 | INFO |   Batch 1400 / 5959: loss=0.859537 cross_entropy_loss=11.233969
+2026-04-21,04:01:46 | INFO |   Batch 1600 / 5959: loss=0.874605 cross_entropy_loss=11.435644
+2026-04-21,04:01:48 | INFO |   Batch 1800 / 5959: loss=0.861762 cross_entropy_loss=11.305140
+2026-04-21,04:01:49 | INFO |   Batch 2000 / 5959: loss=0.814010 cross_entropy_loss=11.035368
+2026-04-21,04:01:51 | INFO |   Batch 2200 / 5959: loss=0.820722 cross_entropy_loss=11.079694
+2026-04-21,04:01:52 | INFO |   Batch 2400 / 5959: loss=0.776574 cross_entropy_loss=10.850036
+2026-04-21,04:01:54 | INFO |   Batch 2600 / 5959: loss=0.818330 cross_entropy_loss=10.992003
+2026-04-21,04:01:56 | INFO |   Batch 2800 / 5959: loss=0.818856 cross_entropy_loss=11.141191
+2026-04-21,04:01:57 | INFO |   Batch 3000 / 5959: loss=0.784203 cross_entropy_loss=10.839052
+2026-04-21,04:01:59 | INFO |   Batch 3200 / 5959: loss=0.812901 cross_entropy_loss=11.107864
+2026-04-21,04:02:00 | INFO |   Batch 3400 / 5959: loss=0.837165 cross_entropy_loss=11.136773
+2026-04-21,04:02:02 | INFO |   Batch 3600 / 5959: loss=0.841849 cross_entropy_loss=11.317335
+2026-04-21,04:02:04 | INFO |   Batch 3800 / 5959: loss=0.819304 cross_entropy_loss=11.101976
+2026-04-21,04:02:05 | INFO |   Batch 4000 / 5959: loss=0.823393 cross_entropy_loss=11.148268
+2026-04-21,04:02:07 | INFO |   Batch 4200 / 5959: loss=0.798557 cross_entropy_loss=11.029247
+2026-04-21,04:02:09 | INFO |   Batch 4400 / 5959: loss=0.802014 cross_entropy_loss=11.131061
+2026-04-21,04:02:10 | INFO |   Batch 4600 / 5959: loss=0.775764 cross_entropy_loss=10.880377
+2026-04-21,04:02:12 | INFO |   Batch 4800 / 5959: loss=0.814807 cross_entropy_loss=11.112579
+2026-04-21,04:02:13 | INFO |   Batch 5000 / 5959: loss=0.808425 cross_entropy_loss=11.093559
+2026-04-21,04:02:15 | INFO |   Batch 5200 / 5959: loss=0.782691 cross_entropy_loss=10.993476
+2026-04-21,04:02:17 | INFO |   Batch 5400 / 5959: loss=0.780060 cross_entropy_loss=10.789354
+2026-04-21,04:02:18 | INFO |   Batch 5600 / 5959: loss=0.777408 cross_entropy_loss=10.955333
+2026-04-21,04:02:20 | INFO |   Batch 5800 / 5959: loss=0.789969 cross_entropy_loss=10.962559
+2026-04-21,04:02:21 | INFO | Evaluating on validation set
+2026-04-21,04:02:21 | INFO |   Batch 0 / 745: loss=11.075668
+2026-04-21,04:02:22 | INFO |   Batch 200 / 745: loss=11.007371
+2026-04-21,04:02:22 | INFO |   Batch 400 / 745: loss=11.172759
+2026-04-21,04:02:22 | INFO |   Batch 600 / 745: loss=10.945768
+2026-04-21,04:02:23 | INFO | exp4_cfg02_scent_warmup_ref | epoch=3 train_ce=11.115195 val_loss=11.066483 val_acc=0.153035 best_val_acc=0.153035 best_test_acc=0.000000
+2026-04-21,04:02:23 | INFO | exp4_cfg02_scent_warmup_ref | Epoch 4/20, learning_rate=0.001940
+2026-04-21,04:02:23 | INFO |   Batch 0 / 5959: loss=0.831492 cross_entropy_loss=11.049656
+2026-04-21,04:02:25 | INFO |   Batch 200 / 5959: loss=0.809054 cross_entropy_loss=10.985006
+2026-04-21,04:02:26 | INFO |   Batch 400 / 5959: loss=0.861407 cross_entropy_loss=11.281389
+2026-04-21,04:02:28 | INFO |   Batch 600 / 5959: loss=0.830977 cross_entropy_loss=11.077441
+2026-04-21,04:02:30 | INFO |   Batch 800 / 5959: loss=0.775145 cross_entropy_loss=10.561836
+2026-04-21,04:02:31 | INFO |   Batch 1000 / 5959: loss=0.809734 cross_entropy_loss=10.935369
+2026-04-21,04:02:33 | INFO |   Batch 1200 / 5959: loss=0.793179 cross_entropy_loss=10.865084
+2026-04-21,04:02:35 | INFO |   Batch 1400 / 5959: loss=0.814171 cross_entropy_loss=10.973949
+2026-04-21,04:02:36 | INFO |   Batch 1600 / 5959: loss=0.812842 cross_entropy_loss=10.967945
+2026-04-21,04:02:38 | INFO |   Batch 1800 / 5959: loss=0.802111 cross_entropy_loss=10.898159
+2026-04-21,04:02:39 | INFO |   Batch 2000 / 5959: loss=0.792035 cross_entropy_loss=10.792298
+2026-04-21,04:02:41 | INFO |   Batch 2200 / 5959: loss=0.761700 cross_entropy_loss=10.595631
+2026-04-21,04:02:43 | INFO |   Batch 2400 / 5959: loss=0.824380 cross_entropy_loss=11.110853
+2026-04-21,04:02:44 | INFO |   Batch 2600 / 5959: loss=0.784785 cross_entropy_loss=10.934712
+2026-04-21,04:02:46 | INFO |   Batch 2800 / 5959: loss=0.760185 cross_entropy_loss=10.668493
+2026-04-21,04:02:48 | INFO |   Batch 3000 / 5959: loss=0.752984 cross_entropy_loss=10.611062
+2026-04-21,04:02:49 | INFO |   Batch 3200 / 5959: loss=0.781394 cross_entropy_loss=10.717343
+2026-04-21,04:02:51 | INFO |   Batch 3400 / 5959: loss=0.799483 cross_entropy_loss=10.920849
+2026-04-21,04:02:52 | INFO |   Batch 3600 / 5959: loss=0.731319 cross_entropy_loss=10.389044
+2026-04-21,04:02:54 | INFO |   Batch 3800 / 5959: loss=0.791803 cross_entropy_loss=10.951931
+2026-04-21,04:02:56 | INFO |   Batch 4000 / 5959: loss=0.801980 cross_entropy_loss=10.927796
+2026-04-21,04:02:57 | INFO |   Batch 4200 / 5959: loss=0.789737 cross_entropy_loss=10.815772
+2026-04-21,04:02:59 | INFO |   Batch 4400 / 5959: loss=0.763042 cross_entropy_loss=10.653513
+2026-04-21,04:03:00 | INFO |   Batch 4600 / 5959: loss=0.767745 cross_entropy_loss=10.809922
+2026-04-21,04:03:02 | INFO |   Batch 4800 / 5959: loss=0.799224 cross_entropy_loss=10.938810
+2026-04-21,04:03:04 | INFO |   Batch 5000 / 5959: loss=0.751750 cross_entropy_loss=10.682819
+2026-04-21,04:03:05 | INFO |   Batch 5200 / 5959: loss=0.776687 cross_entropy_loss=10.984167
+2026-04-21,04:03:07 | INFO |   Batch 5400 / 5959: loss=0.760367 cross_entropy_loss=10.730655
+2026-04-21,04:03:09 | INFO |   Batch 5600 / 5959: loss=0.774235 cross_entropy_loss=10.993735
+2026-04-21,04:03:10 | INFO |   Batch 5800 / 5959: loss=0.788183 cross_entropy_loss=11.059326
+2026-04-21,04:03:11 | INFO | Evaluating on validation set
+2026-04-21,04:03:11 | INFO |   Batch 0 / 745: loss=10.895714
+2026-04-21,04:03:12 | INFO |   Batch 200 / 745: loss=10.817521
+2026-04-21,04:03:12 | INFO |   Batch 400 / 745: loss=10.999797
+2026-04-21,04:03:13 | INFO |   Batch 600 / 745: loss=10.748865
+2026-04-21,04:03:13 | INFO | exp4_cfg02_scent_warmup_ref | epoch=4 train_ce=10.895837 val_loss=10.885768 val_acc=0.172148 best_val_acc=0.172148 best_test_acc=0.000000
+2026-04-21,04:03:13 | INFO | exp4_cfg02_scent_warmup_ref | Epoch 5/20, learning_rate=0.001866
+2026-04-21,04:03:14 | INFO |   Batch 0 / 5959: loss=0.800303 cross_entropy_loss=10.652717
+2026-04-21,04:03:15 | INFO |   Batch 200 / 5959: loss=0.816283 cross_entropy_loss=10.791389
+2026-04-21,04:03:17 | INFO |   Batch 400 / 5959: loss=0.840661 cross_entropy_loss=10.881813
+2026-04-21,04:03:18 | INFO |   Batch 600 / 5959: loss=0.804424 cross_entropy_loss=10.657426
+2026-04-21,04:03:20 | INFO |   Batch 800 / 5959: loss=0.781337 cross_entropy_loss=10.468166
+2026-04-21,04:03:22 | INFO |   Batch 1000 / 5959: loss=0.847742 cross_entropy_loss=11.027212
+2026-04-21,04:03:23 | INFO |   Batch 1200 / 5959: loss=0.803818 cross_entropy_loss=10.656074
+2026-04-21,04:03:25 | INFO |   Batch 1400 / 5959: loss=0.786258 cross_entropy_loss=10.627064
+2026-04-21,04:03:26 | INFO |   Batch 1600 / 5959: loss=0.777938 cross_entropy_loss=10.580915
+2026-04-21,04:03:28 | INFO |   Batch 1800 / 5959: loss=0.775967 cross_entropy_loss=10.584061
+2026-04-21,04:03:30 | INFO |   Batch 2000 / 5959: loss=0.839907 cross_entropy_loss=11.106299
+2026-04-21,04:03:31 | INFO |   Batch 2200 / 5959: loss=0.744208 cross_entropy_loss=10.347216
+2026-04-21,04:03:33 | INFO |   Batch 2400 / 5959: loss=0.815171 cross_entropy_loss=10.910645
+2026-04-21,04:03:35 | INFO |   Batch 2600 / 5959: loss=0.746379 cross_entropy_loss=10.319521
+2026-04-21,04:03:36 | INFO |   Batch 2800 / 5959: loss=0.755999 cross_entropy_loss=10.397919
+2026-04-21,04:03:38 | INFO |   Batch 3000 / 5959: loss=0.794847 cross_entropy_loss=10.653112
+2026-04-21,04:03:39 | INFO |   Batch 3200 / 5959: loss=0.762023 cross_entropy_loss=10.525349
+2026-04-21,04:03:41 | INFO |   Batch 3400 / 5959: loss=0.742907 cross_entropy_loss=10.408783
+2026-04-21,04:03:43 | INFO |   Batch 3600 / 5959: loss=0.778931 cross_entropy_loss=10.715399
+2026-04-21,04:03:44 | INFO |   Batch 3800 / 5959: loss=0.796691 cross_entropy_loss=10.882603
+2026-04-21,04:03:46 | INFO |   Batch 4000 / 5959: loss=0.788979 cross_entropy_loss=10.934904
+2026-04-21,04:03:48 | INFO |   Batch 4200 / 5959: loss=0.794189 cross_entropy_loss=10.918455
+2026-04-21,04:03:49 | INFO |   Batch 4400 / 5959: loss=0.792996 cross_entropy_loss=10.816499
+2026-04-21,04:03:51 | INFO |   Batch 4600 / 5959: loss=0.792747 cross_entropy_loss=10.763085
+2026-04-21,04:03:52 | INFO |   Batch 4800 / 5959: loss=0.760825 cross_entropy_loss=10.741194
+2026-04-21,04:03:54 | INFO |   Batch 5000 / 5959: loss=0.739769 cross_entropy_loss=10.474306
+2026-04-21,04:03:56 | INFO |   Batch 5200 / 5959: loss=0.732513 cross_entropy_loss=10.365541
+2026-04-21,04:03:57 | INFO |   Batch 5400 / 5959: loss=0.772487 cross_entropy_loss=10.680773
+2026-04-21,04:03:59 | INFO |   Batch 5600 / 5959: loss=0.766242 cross_entropy_loss=10.592197
+2026-04-21,04:04:00 | INFO |   Batch 5800 / 5959: loss=0.761851 cross_entropy_loss=10.686306
+2026-04-21,04:04:02 | INFO | Evaluating on validation set
+2026-04-21,04:04:02 | INFO |   Batch 0 / 745: loss=10.729525
+2026-04-21,04:04:02 | INFO |   Batch 200 / 745: loss=10.642519
+2026-04-21,04:04:03 | INFO |   Batch 400 / 745: loss=10.839329
+2026-04-21,04:04:03 | INFO |   Batch 600 / 745: loss=10.566813
+2026-04-21,04:04:03 | INFO | exp4_cfg02_scent_warmup_ref | epoch=5 train_ce=10.689211 val_loss=10.718446 val_acc=0.195592 best_val_acc=0.195592 best_test_acc=0.000000
+2026-04-21,04:04:04 | INFO | exp4_cfg02_scent_warmup_ref | Epoch 6/20, learning_rate=0.001766
+2026-04-21,04:04:04 | INFO |   Batch 0 / 5959: loss=0.793005 cross_entropy_loss=10.381026
+2026-04-21,04:04:05 | INFO |   Batch 200 / 5959: loss=0.805335 cross_entropy_loss=10.501852
+2026-04-21,04:04:07 | INFO |   Batch 400 / 5959: loss=0.822591 cross_entropy_loss=10.711006
+2026-04-21,04:04:09 | INFO |   Batch 600 / 5959: loss=0.794385 cross_entropy_loss=10.421046
+2026-04-21,04:04:10 | INFO |   Batch 800 / 5959: loss=0.817395 cross_entropy_loss=10.653818
+2026-04-21,04:04:12 | INFO |   Batch 1000 / 5959: loss=0.818759 cross_entropy_loss=10.684023
+2026-04-21,04:04:13 | INFO |   Batch 1200 / 5959: loss=0.786629 cross_entropy_loss=10.303993
+2026-04-21,04:04:15 | INFO |   Batch 1400 / 5959: loss=0.821127 cross_entropy_loss=10.741495
+2026-04-21,04:04:17 | INFO |   Batch 1600 / 5959: loss=0.811039 cross_entropy_loss=10.617317
+2026-04-21,04:04:18 | INFO |   Batch 1800 / 5959: loss=0.780744 cross_entropy_loss=10.320040
+2026-04-21,04:04:20 | INFO |   Batch 2000 / 5959: loss=0.764703 cross_entropy_loss=10.336348
+2026-04-21,04:04:22 | INFO |   Batch 2200 / 5959: loss=0.809978 cross_entropy_loss=10.699886
+2026-04-21,04:04:23 | INFO |   Batch 2400 / 5959: loss=0.837383 cross_entropy_loss=10.989661
+2026-04-21,04:04:25 | INFO |   Batch 2600 / 5959: loss=0.807205 cross_entropy_loss=10.624615
+2026-04-21,04:04:26 | INFO |   Batch 2800 / 5959: loss=0.769389 cross_entropy_loss=10.406768
+2026-04-21,04:04:28 | INFO |   Batch 3000 / 5959: loss=0.781363 cross_entropy_loss=10.499679
+2026-04-21,04:04:30 | INFO |   Batch 3200 / 5959: loss=0.746029 cross_entropy_loss=10.330514
+2026-04-21,04:04:31 | INFO |   Batch 3400 / 5959: loss=0.807981 cross_entropy_loss=10.696029
+2026-04-21,04:04:33 | INFO |   Batch 3600 / 5959: loss=0.745500 cross_entropy_loss=10.282401
+2026-04-21,04:04:35 | INFO |   Batch 3800 / 5959: loss=0.819108 cross_entropy_loss=10.857438
+2026-04-21,04:04:36 | INFO |   Batch 4000 / 5959: loss=0.766418 cross_entropy_loss=10.451232
+2026-04-21,04:04:38 | INFO |   Batch 4200 / 5959: loss=0.760026 cross_entropy_loss=10.307192
+2026-04-21,04:04:39 | INFO |   Batch 4400 / 5959: loss=0.784653 cross_entropy_loss=10.616466
+2026-04-21,04:04:41 | INFO |   Batch 4600 / 5959: loss=0.770879 cross_entropy_loss=10.554750
+2026-04-21,04:04:43 | INFO |   Batch 4800 / 5959: loss=0.794556 cross_entropy_loss=10.627926
+2026-04-21,04:04:44 | INFO |   Batch 5000 / 5959: loss=0.741055 cross_entropy_loss=10.374027
+2026-04-21,04:04:46 | INFO |   Batch 5200 / 5959: loss=0.790572 cross_entropy_loss=10.642668
+2026-04-21,04:04:48 | INFO |   Batch 5400 / 5959: loss=0.768137 cross_entropy_loss=10.494043
+2026-04-21,04:04:49 | INFO |   Batch 5600 / 5959: loss=0.764081 cross_entropy_loss=10.538568
+2026-04-21,04:04:51 | INFO |   Batch 5800 / 5959: loss=0.728628 cross_entropy_loss=10.313410
+2026-04-21,04:04:52 | INFO | Evaluating on validation set
+2026-04-21,04:04:52 | INFO |   Batch 0 / 745: loss=10.573466
+2026-04-21,04:04:52 | INFO |   Batch 200 / 745: loss=10.480967
+2026-04-21,04:04:53 | INFO |   Batch 400 / 745: loss=10.689213
+2026-04-21,04:04:53 | INFO |   Batch 600 / 745: loss=10.397522
+2026-04-21,04:04:53 | INFO | exp4_cfg02_scent_warmup_ref | epoch=6 train_ce=10.494852 val_loss=10.563159 val_acc=0.216016 best_val_acc=0.216016 best_test_acc=0.000000
+2026-04-21,04:04:54 | INFO | exp4_cfg02_scent_warmup_ref | Epoch 7/20, learning_rate=0.001643
+2026-04-21,04:04:54 | INFO |   Batch 0 / 5959: loss=0.834241 cross_entropy_loss=10.623446
+2026-04-21,04:04:56 | INFO |   Batch 200 / 5959: loss=0.781837 cross_entropy_loss=10.044487
+2026-04-21,04:04:57 | INFO |   Batch 400 / 5959: loss=0.791806 cross_entropy_loss=10.204022
+2026-04-21,04:04:59 | INFO |   Batch 600 / 5959: loss=0.805061 cross_entropy_loss=10.364936
+2026-04-21,04:05:01 | INFO |   Batch 800 / 5959: loss=0.835714 cross_entropy_loss=10.575775
+2026-04-21,04:05:02 | INFO |   Batch 1000 / 5959: loss=0.799824 cross_entropy_loss=10.443014
+2026-04-21,04:05:04 | INFO |   Batch 1200 / 5959: loss=0.827627 cross_entropy_loss=10.561911
+2026-04-21,04:05:05 | INFO |   Batch 1400 / 5959: loss=0.800262 cross_entropy_loss=10.344616
+2026-04-21,04:05:07 | INFO |   Batch 1600 / 5959: loss=0.787581 cross_entropy_loss=10.373695
+2026-04-21,04:05:09 | INFO |   Batch 1800 / 5959: loss=0.747721 cross_entropy_loss=10.117207
+2026-04-21,04:05:10 | INFO |   Batch 2000 / 5959: loss=0.760390 cross_entropy_loss=10.080935
+2026-04-21,04:05:12 | INFO |   Batch 2200 / 5959: loss=0.727926 cross_entropy_loss=9.678200
+2026-04-21,04:05:13 | INFO |   Batch 2400 / 5959: loss=0.825042 cross_entropy_loss=10.512548
+2026-04-21,04:05:15 | INFO |   Batch 2600 / 5959: loss=0.824975 cross_entropy_loss=10.469814
+2026-04-21,04:05:17 | INFO |   Batch 2800 / 5959: loss=0.837194 cross_entropy_loss=10.493948
+2026-04-21,04:05:18 | INFO |   Batch 3000 / 5959: loss=0.799459 cross_entropy_loss=10.562672
+2026-04-21,04:05:20 | INFO |   Batch 3200 / 5959: loss=0.862308 cross_entropy_loss=10.746967
+2026-04-21,04:05:22 | INFO |   Batch 3400 / 5959: loss=0.815371 cross_entropy_loss=10.639807
+2026-04-21,04:05:23 | INFO |   Batch 3600 / 5959: loss=0.791978 cross_entropy_loss=10.376358
+2026-04-21,04:05:25 | INFO |   Batch 3800 / 5959: loss=0.714396 cross_entropy_loss=9.813672
+2026-04-21,04:05:26 | INFO |   Batch 4000 / 5959: loss=0.765537 cross_entropy_loss=10.251961
+2026-04-21,04:05:28 | INFO |   Batch 4200 / 5959: loss=0.782232 cross_entropy_loss=10.309334
+2026-04-21,04:05:30 | INFO |   Batch 4400 / 5959: loss=0.794854 cross_entropy_loss=10.367760
+2026-04-21,04:05:31 | INFO |   Batch 4600 / 5959: loss=0.779877 cross_entropy_loss=10.318393
+2026-04-21,04:05:33 | INFO |   Batch 4800 / 5959: loss=0.766423 cross_entropy_loss=10.171473
+2026-04-21,04:05:35 | INFO |   Batch 5000 / 5959: loss=0.769154 cross_entropy_loss=10.115236
+2026-04-21,04:05:36 | INFO |   Batch 5200 / 5959: loss=0.734844 cross_entropy_loss=9.971500
+2026-04-21,04:05:38 | INFO |   Batch 5400 / 5959: loss=0.779608 cross_entropy_loss=10.372007
+2026-04-21,04:05:39 | INFO |   Batch 5600 / 5959: loss=0.763546 cross_entropy_loss=10.216711
+2026-04-21,04:05:41 | INFO |   Batch 5800 / 5959: loss=0.748992 cross_entropy_loss=10.178654
+2026-04-21,04:05:42 | INFO | Evaluating on validation set
+2026-04-21,04:05:42 | INFO |   Batch 0 / 745: loss=10.429094
+2026-04-21,04:05:43 | INFO |   Batch 200 / 745: loss=10.332169
+2026-04-21,04:05:43 | INFO |   Batch 400 / 745: loss=10.551630
+2026-04-21,04:05:43 | INFO |   Batch 600 / 745: loss=10.240253
+2026-04-21,04:05:44 | INFO | exp4_cfg02_scent_warmup_ref | epoch=7 train_ce=10.314030 val_loss=10.420342 val_acc=0.232034 best_val_acc=0.232034 best_test_acc=0.000000
+2026-04-21,04:05:44 | INFO | exp4_cfg02_scent_warmup_ref | Epoch 8/20, learning_rate=0.001500
+2026-04-21,04:05:44 | INFO |   Batch 0 / 5959: loss=0.794039 cross_entropy_loss=10.098777
+2026-04-21,04:05:46 | INFO |   Batch 200 / 5959: loss=0.801943 cross_entropy_loss=10.091558
+2026-04-21,04:05:48 | INFO |   Batch 400 / 5959: loss=0.795969 cross_entropy_loss=10.099720
+2026-04-21,04:05:49 | INFO |   Batch 600 / 5959: loss=0.809368 cross_entropy_loss=10.111080
+2026-04-21,04:05:51 | INFO |   Batch 800 / 5959: loss=0.785171 cross_entropy_loss=10.064160
+2026-04-21,04:05:52 | INFO |   Batch 1000 / 5959: loss=0.849377 cross_entropy_loss=10.439162
+2026-04-21,04:05:54 | INFO |   Batch 1200 / 5959: loss=0.840810 cross_entropy_loss=10.438882
+2026-04-21,04:05:56 | INFO |   Batch 1400 / 5959: loss=0.788538 cross_entropy_loss=10.173550
+2026-04-21,04:05:57 | INFO |   Batch 1600 / 5959: loss=0.807737 cross_entropy_loss=10.202763
+2026-04-21,04:05:59 | INFO |   Batch 1800 / 5959: loss=0.760260 cross_entropy_loss=9.814290
+2026-04-21,04:06:00 | INFO |   Batch 2000 / 5959: loss=0.764040 cross_entropy_loss=9.779990
+2026-04-21,04:06:02 | INFO |   Batch 2200 / 5959: loss=0.774084 cross_entropy_loss=10.119053
+2026-04-21,04:06:04 | INFO |   Batch 2400 / 5959: loss=0.778089 cross_entropy_loss=10.226006
+2026-04-21,04:06:05 | INFO |   Batch 2600 / 5959: loss=0.765055 cross_entropy_loss=9.941116
+2026-04-21,04:06:07 | INFO |   Batch 2800 / 5959: loss=0.767813 cross_entropy_loss=9.900276
+2026-04-21,04:06:09 | INFO |   Batch 3000 / 5959: loss=0.796835 cross_entropy_loss=10.174894
+2026-04-21,04:06:10 | INFO |   Batch 3200 / 5959: loss=0.814601 cross_entropy_loss=10.205897
+2026-04-21,04:06:12 | INFO |   Batch 3400 / 5959: loss=0.777453 cross_entropy_loss=10.088894
+2026-04-21,04:06:13 | INFO |   Batch 3600 / 5959: loss=0.779295 cross_entropy_loss=9.769600
+2026-04-21,04:06:15 | INFO |   Batch 3800 / 5959: loss=0.822305 cross_entropy_loss=10.655489
+2026-04-21,04:06:17 | INFO |   Batch 4000 / 5959: loss=0.801596 cross_entropy_loss=10.286796
+2026-04-21,04:06:18 | INFO |   Batch 4200 / 5959: loss=0.788626 cross_entropy_loss=10.268538
+2026-04-21,04:06:20 | INFO |   Batch 4400 / 5959: loss=0.762412 cross_entropy_loss=10.020604
+2026-04-21,04:06:22 | INFO |   Batch 4600 / 5959: loss=0.751136 cross_entropy_loss=9.828769
+2026-04-21,04:06:23 | INFO |   Batch 4800 / 5959: loss=0.804892 cross_entropy_loss=10.366009
+2026-04-21,04:06:25 | INFO |   Batch 5000 / 5959: loss=0.737206 cross_entropy_loss=9.738531
+2026-04-21,04:06:26 | INFO |   Batch 5200 / 5959: loss=0.770743 cross_entropy_loss=9.914782
+2026-04-21,04:06:28 | INFO |   Batch 5400 / 5959: loss=0.786861 cross_entropy_loss=10.244196
+2026-04-21,04:06:30 | INFO |   Batch 5600 / 5959: loss=0.744892 cross_entropy_loss=9.910545
+2026-04-21,04:06:31 | INFO |   Batch 5800 / 5959: loss=0.755022 cross_entropy_loss=9.995340
+2026-04-21,04:06:33 | INFO | Evaluating on validation set
+2026-04-21,04:06:33 | INFO |   Batch 0 / 745: loss=10.298107
+2026-04-21,04:06:33 | INFO |   Batch 200 / 745: loss=10.197540
+2026-04-21,04:06:33 | INFO |   Batch 400 / 745: loss=10.426640
+2026-04-21,04:06:34 | INFO |   Batch 600 / 745: loss=10.097341
+2026-04-21,04:06:34 | INFO | exp4_cfg02_scent_warmup_ref | epoch=8 train_ce=10.147388 val_loss=10.290297 val_acc=0.243310 best_val_acc=0.243310 best_test_acc=0.000000
+2026-04-21,04:06:35 | INFO | exp4_cfg02_scent_warmup_ref | Epoch 9/20, learning_rate=0.001342
+2026-04-21,04:06:35 | INFO |   Batch 0 / 5959: loss=0.799401 cross_entropy_loss=9.806720
+2026-04-21,04:06:36 | INFO |   Batch 200 / 5959: loss=0.830687 cross_entropy_loss=10.137592
+2026-04-21,04:06:38 | INFO |   Batch 400 / 5959: loss=0.805607 cross_entropy_loss=9.744287
+2026-04-21,04:06:39 | INFO |   Batch 600 / 5959: loss=0.804681 cross_entropy_loss=9.763155
+2026-04-21,04:06:41 | INFO |   Batch 800 / 5959: loss=0.823884 cross_entropy_loss=10.160879
+2026-04-21,04:06:43 | INFO |   Batch 1000 / 5959: loss=0.800478 cross_entropy_loss=9.988016
+2026-04-21,04:06:44 | INFO |   Batch 1200 / 5959: loss=0.802541 cross_entropy_loss=10.079611
+2026-04-21,04:06:46 | INFO |   Batch 1400 / 5959: loss=0.799838 cross_entropy_loss=9.940460
+2026-04-21,04:06:48 | INFO |   Batch 1600 / 5959: loss=0.795673 cross_entropy_loss=9.906542
+2026-04-21,04:06:49 | INFO |   Batch 1800 / 5959: loss=0.793570 cross_entropy_loss=9.774096
+2026-04-21,04:06:51 | INFO |   Batch 2000 / 5959: loss=0.817226 cross_entropy_loss=10.181093
+2026-04-21,04:06:52 | INFO |   Batch 2200 / 5959: loss=0.784949 cross_entropy_loss=9.798795
+2026-04-21,04:06:54 | INFO |   Batch 2400 / 5959: loss=0.799820 cross_entropy_loss=9.896580
+2026-04-21,04:06:56 | INFO |   Batch 2600 / 5959: loss=0.796018 cross_entropy_loss=9.982833
+2026-04-21,04:06:57 | INFO |   Batch 2800 / 5959: loss=0.817525 cross_entropy_loss=10.146677
+2026-04-21,04:06:59 | INFO |   Batch 3000 / 5959: loss=0.779208 cross_entropy_loss=9.846823
+2026-04-21,04:07:01 | INFO |   Batch 3200 / 5959: loss=0.819870 cross_entropy_loss=10.153708
+2026-04-21,04:07:02 | INFO |   Batch 3400 / 5959: loss=0.791091 cross_entropy_loss=10.131330
+2026-04-21,04:07:04 | INFO |   Batch 3600 / 5959: loss=0.795153 cross_entropy_loss=10.049612
+2026-04-21,04:07:05 | INFO |   Batch 3800 / 5959: loss=0.799459 cross_entropy_loss=10.127716
+2026-04-21,04:07:07 | INFO |   Batch 4000 / 5959: loss=0.787807 cross_entropy_loss=9.876682
+2026-04-21,04:07:09 | INFO |   Batch 4200 / 5959: loss=0.781367 cross_entropy_loss=10.107399
+2026-04-21,04:07:10 | INFO |   Batch 4400 / 5959: loss=0.785409 cross_entropy_loss=10.112703
+2026-04-21,04:07:12 | INFO |   Batch 4600 / 5959: loss=0.783384 cross_entropy_loss=9.811468
+2026-04-21,04:07:13 | INFO |   Batch 4800 / 5959: loss=0.754685 cross_entropy_loss=9.715778
+2026-04-21,04:07:15 | INFO |   Batch 5000 / 5959: loss=0.741585 cross_entropy_loss=9.637960
+2026-04-21,04:07:17 | INFO |   Batch 5200 / 5959: loss=0.844710 cross_entropy_loss=10.364088
+2026-04-21,04:07:18 | INFO |   Batch 5400 / 5959: loss=0.784723 cross_entropy_loss=9.955306
+2026-04-21,04:07:20 | INFO |   Batch 5600 / 5959: loss=0.790227 cross_entropy_loss=10.080362
+2026-04-21,04:07:22 | INFO |   Batch 5800 / 5959: loss=0.733924 cross_entropy_loss=9.496915
+2026-04-21,04:07:23 | INFO | Evaluating on validation set
+2026-04-21,04:07:23 | INFO |   Batch 0 / 745: loss=10.179745
+2026-04-21,04:07:23 | INFO |   Batch 200 / 745: loss=10.075957
+2026-04-21,04:07:24 | INFO |   Batch 400 / 745: loss=10.314339
+2026-04-21,04:07:24 | INFO |   Batch 600 / 745: loss=9.968479
+2026-04-21,04:07:24 | INFO | exp4_cfg02_scent_warmup_ref | epoch=9 train_ce=9.996281 val_loss=10.173697 val_acc=0.251062 best_val_acc=0.251062 best_test_acc=0.000000
+2026-04-21,04:07:25 | INFO | exp4_cfg02_scent_warmup_ref | Epoch 10/20, learning_rate=0.001174
+2026-04-21,04:07:25 | INFO |   Batch 0 / 5959: loss=0.808787 cross_entropy_loss=9.807706
+2026-04-21,04:07:26 | INFO |   Batch 200 / 5959: loss=0.849162 cross_entropy_loss=10.056713
+2026-04-21,04:07:28 | INFO |   Batch 400 / 5959: loss=0.830338 cross_entropy_loss=10.055723
+2026-04-21,04:07:30 | INFO |   Batch 600 / 5959: loss=0.795310 cross_entropy_loss=9.662080
+2026-04-21,04:07:31 | INFO |   Batch 800 / 5959: loss=0.785547 cross_entropy_loss=9.662327
+2026-04-21,04:07:33 | INFO |   Batch 1000 / 5959: loss=0.804576 cross_entropy_loss=9.679059
+2026-04-21,04:07:35 | INFO |   Batch 1200 / 5959: loss=0.802030 cross_entropy_loss=9.738950
+2026-04-21,04:07:36 | INFO |   Batch 1400 / 5959: loss=0.811059 cross_entropy_loss=9.737875
+2026-04-21,04:07:38 | INFO |   Batch 1600 / 5959: loss=0.848352 cross_entropy_loss=10.041870
+2026-04-21,04:07:39 | INFO |   Batch 1800 / 5959: loss=0.815468 cross_entropy_loss=9.881958
+2026-04-21,04:07:41 | INFO |   Batch 2000 / 5959: loss=0.787913 cross_entropy_loss=9.640041
+2026-04-21,04:07:43 | INFO |   Batch 2200 / 5959: loss=0.796546 cross_entropy_loss=9.721436
+2026-04-21,04:07:44 | INFO |   Batch 2400 / 5959: loss=0.813029 cross_entropy_loss=9.937710
+2026-04-21,04:07:46 | INFO |   Batch 2600 / 5959: loss=0.834530 cross_entropy_loss=10.243097
+2026-04-21,04:07:47 | INFO |   Batch 2800 / 5959: loss=0.790189 cross_entropy_loss=9.883011
+2026-04-21,04:07:49 | INFO |   Batch 3000 / 5959: loss=0.774872 cross_entropy_loss=9.763207
+2026-04-21,04:07:51 | INFO |   Batch 3200 / 5959: loss=0.809050 cross_entropy_loss=9.869129
+2026-04-21,04:07:52 | INFO |   Batch 3400 / 5959: loss=0.760260 cross_entropy_loss=9.334978
+2026-04-21,04:07:54 | INFO |   Batch 3600 / 5959: loss=0.752279 cross_entropy_loss=9.226703
+2026-04-21,04:07:56 | INFO |   Batch 3800 / 5959: loss=0.739676 cross_entropy_loss=9.199195
+2026-04-21,04:07:57 | INFO |   Batch 4000 / 5959: loss=0.827467 cross_entropy_loss=10.147146
+2026-04-21,04:07:59 | INFO |   Batch 4200 / 5959: loss=0.821244 cross_entropy_loss=10.010169
+2026-04-21,04:08:00 | INFO |   Batch 4400 / 5959: loss=0.804992 cross_entropy_loss=9.909472
+2026-04-21,04:08:02 | INFO |   Batch 4600 / 5959: loss=0.779292 cross_entropy_loss=9.678417
+2026-04-21,04:08:04 | INFO |   Batch 4800 / 5959: loss=0.837690 cross_entropy_loss=10.028137
+2026-04-21,04:08:05 | INFO |   Batch 5000 / 5959: loss=0.791451 cross_entropy_loss=9.620256
+2026-04-21,04:08:07 | INFO |   Batch 5200 / 5959: loss=0.785847 cross_entropy_loss=9.812757
+2026-04-21,04:08:09 | INFO |   Batch 5400 / 5959: loss=0.810739 cross_entropy_loss=10.110930
+2026-04-21,04:08:10 | INFO |   Batch 5600 / 5959: loss=0.817697 cross_entropy_loss=9.851761
+2026-04-21,04:08:12 | INFO |   Batch 5800 / 5959: loss=0.781220 cross_entropy_loss=9.955427
+2026-04-21,04:08:13 | INFO | Evaluating on validation set
+2026-04-21,04:08:13 | INFO |   Batch 0 / 745: loss=10.075200
+2026-04-21,04:08:13 | INFO |   Batch 200 / 745: loss=9.968837
+2026-04-21,04:08:14 | INFO |   Batch 400 / 745: loss=10.215244
+2026-04-21,04:08:14 | INFO |   Batch 600 / 745: loss=9.854720
+2026-04-21,04:08:14 | INFO | exp4_cfg02_scent_warmup_ref | epoch=10 train_ce=9.861680 val_loss=10.070990 val_acc=0.255929 best_val_acc=0.255929 best_test_acc=0.000000
+2026-04-21,04:08:15 | INFO | exp4_cfg02_scent_warmup_ref | Epoch 11/20, learning_rate=0.001000
+2026-04-21,04:08:15 | INFO |   Batch 0 / 5959: loss=0.836511 cross_entropy_loss=9.756288
+2026-04-21,04:08:17 | INFO |   Batch 200 / 5959: loss=0.837091 cross_entropy_loss=9.728718
+2026-04-21,04:08:18 | INFO |   Batch 400 / 5959: loss=0.853514 cross_entropy_loss=9.781899
+2026-04-21,04:08:20 | INFO |   Batch 600 / 5959: loss=0.835608 cross_entropy_loss=9.885092
+2026-04-21,04:08:22 | INFO |   Batch 800 / 5959: loss=0.815561 cross_entropy_loss=9.536810
+2026-04-21,04:08:23 | INFO |   Batch 1000 / 5959: loss=0.822424 cross_entropy_loss=9.635888
+2026-04-21,04:08:25 | INFO |   Batch 1200 / 5959: loss=0.813742 cross_entropy_loss=9.495504
+2026-04-21,04:08:26 | INFO |   Batch 1400 / 5959: loss=0.827479 cross_entropy_loss=9.707678
+2026-04-21,04:08:28 | INFO |   Batch 1600 / 5959: loss=0.860656 cross_entropy_loss=10.169348
+2026-04-21,04:08:30 | INFO |   Batch 1800 / 5959: loss=0.878279 cross_entropy_loss=10.225800
+2026-04-21,04:08:31 | INFO |   Batch 2000 / 5959: loss=0.847632 cross_entropy_loss=10.037139
+2026-04-21,04:08:33 | INFO |   Batch 2200 / 5959: loss=0.781197 cross_entropy_loss=9.388405
+2026-04-21,04:08:35 | INFO |   Batch 2400 / 5959: loss=0.821815 cross_entropy_loss=9.936344
+2026-04-21,04:08:36 | INFO |   Batch 2600 / 5959: loss=0.789026 cross_entropy_loss=9.428435
+2026-04-21,04:08:38 | INFO |   Batch 2800 / 5959: loss=0.783630 cross_entropy_loss=9.495901
+2026-04-21,04:08:39 | INFO |   Batch 3000 / 5959: loss=0.817553 cross_entropy_loss=9.863888
+2026-04-21,04:08:41 | INFO |   Batch 3200 / 5959: loss=0.809002 cross_entropy_loss=9.969980
+2026-04-21,04:08:43 | INFO |   Batch 3400 / 5959: loss=0.826576 cross_entropy_loss=9.634199
+2026-04-21,04:08:44 | INFO |   Batch 3600 / 5959: loss=0.793608 cross_entropy_loss=9.631853
+2026-04-21,04:08:46 | INFO |   Batch 3800 / 5959: loss=0.803104 cross_entropy_loss=9.461704
+2026-04-21,04:08:47 | INFO |   Batch 4000 / 5959: loss=0.786580 cross_entropy_loss=9.457032
+2026-04-21,04:08:49 | INFO |   Batch 4200 / 5959: loss=0.792404 cross_entropy_loss=9.305702
+2026-04-21,04:08:51 | INFO |   Batch 4400 / 5959: loss=0.830630 cross_entropy_loss=9.701305
+2026-04-21,04:08:52 | INFO |   Batch 4600 / 5959: loss=0.861460 cross_entropy_loss=10.197780
+2026-04-21,04:08:54 | INFO |   Batch 4800 / 5959: loss=0.830850 cross_entropy_loss=9.799825
+2026-04-21,04:08:56 | INFO |   Batch 5000 / 5959: loss=0.768331 cross_entropy_loss=9.493135
+2026-04-21,04:08:57 | INFO |   Batch 5200 / 5959: loss=0.843231 cross_entropy_loss=10.276347
+2026-04-21,04:08:59 | INFO |   Batch 5400 / 5959: loss=0.779286 cross_entropy_loss=9.671909
+2026-04-21,04:09:00 | INFO |   Batch 5600 / 5959: loss=0.789174 cross_entropy_loss=9.669779
+2026-04-21,04:09:02 | INFO |   Batch 5800 / 5959: loss=0.818459 cross_entropy_loss=9.763580
+2026-04-21,04:09:03 | INFO | Evaluating on validation set
+2026-04-21,04:09:03 | INFO |   Batch 0 / 745: loss=9.985422
+2026-04-21,04:09:04 | INFO |   Batch 200 / 745: loss=9.877131
+2026-04-21,04:09:04 | INFO |   Batch 400 / 745: loss=10.130064
+2026-04-21,04:09:04 | INFO |   Batch 600 / 745: loss=9.755747
+2026-04-21,04:09:05 | INFO | exp4_cfg02_scent_warmup_ref | epoch=11 train_ce=9.744028 val_loss=9.982534 val_acc=0.258919 best_val_acc=0.258919 best_test_acc=0.000000
+2026-04-21,04:09:05 | INFO | exp4_cfg02_scent_warmup_ref | Epoch 12/20, learning_rate=0.000826
+2026-04-21,04:09:05 | INFO |   Batch 0 / 5959: loss=0.824080 cross_entropy_loss=9.596149
+2026-04-21,04:09:07 | INFO |   Batch 200 / 5959: loss=0.862378 cross_entropy_loss=9.993729
+2026-04-21,04:09:09 | INFO |   Batch 400 / 5959: loss=0.852834 cross_entropy_loss=9.774925
+2026-04-21,04:09:10 | INFO |   Batch 600 / 5959: loss=0.835303 cross_entropy_loss=9.512988
+2026-04-21,04:09:12 | INFO |   Batch 800 / 5959: loss=0.830840 cross_entropy_loss=9.611649
+2026-04-21,04:09:13 | INFO |   Batch 1000 / 5959: loss=0.841934 cross_entropy_loss=9.653469
+2026-04-21,04:09:15 | INFO |   Batch 1200 / 5959: loss=0.844847 cross_entropy_loss=9.550011
+2026-04-21,04:09:17 | INFO |   Batch 1400 / 5959: loss=0.843977 cross_entropy_loss=9.698208
+2026-04-21,04:09:18 | INFO |   Batch 1600 / 5959: loss=0.876823 cross_entropy_loss=10.025343
+2026-04-21,04:09:20 | INFO |   Batch 1800 / 5959: loss=0.886214 cross_entropy_loss=10.190775
+2026-04-21,04:09:22 | INFO |   Batch 2000 / 5959: loss=0.856909 cross_entropy_loss=9.847668
+2026-04-21,04:09:23 | INFO |   Batch 2200 / 5959: loss=0.886838 cross_entropy_loss=10.155149
+2026-04-21,04:09:25 | INFO |   Batch 2400 / 5959: loss=0.854813 cross_entropy_loss=9.895981
+2026-04-21,04:09:26 | INFO |   Batch 2600 / 5959: loss=0.819698 cross_entropy_loss=9.375998
+2026-04-21,04:09:28 | INFO |   Batch 2800 / 5959: loss=0.838583 cross_entropy_loss=9.649498
+2026-04-21,04:09:30 | INFO |   Batch 3000 / 5959: loss=0.807901 cross_entropy_loss=9.526306
+2026-04-21,04:09:31 | INFO |   Batch 3200 / 5959: loss=0.835750 cross_entropy_loss=9.617517
+2026-04-21,04:09:33 | INFO |   Batch 3400 / 5959: loss=0.823559 cross_entropy_loss=9.395970
+2026-04-21,04:09:35 | INFO |   Batch 3600 / 5959: loss=0.855859 cross_entropy_loss=9.859975
+2026-04-21,04:09:36 | INFO |   Batch 3800 / 5959: loss=0.820228 cross_entropy_loss=9.530420
+2026-04-21,04:09:38 | INFO |   Batch 4000 / 5959: loss=0.814242 cross_entropy_loss=9.298077
+2026-04-21,04:09:39 | INFO |   Batch 4200 / 5959: loss=0.823573 cross_entropy_loss=9.828001
+2026-04-21,04:09:41 | INFO |   Batch 4400 / 5959: loss=0.826900 cross_entropy_loss=9.788854
+2026-04-21,04:09:43 | INFO |   Batch 4600 / 5959: loss=0.834774 cross_entropy_loss=9.747717
+2026-04-21,04:09:44 | INFO |   Batch 4800 / 5959: loss=0.831371 cross_entropy_loss=9.699984
+2026-04-21,04:09:46 | INFO |   Batch 5000 / 5959: loss=0.808277 cross_entropy_loss=9.495060
+2026-04-21,04:09:47 | INFO |   Batch 5200 / 5959: loss=0.825913 cross_entropy_loss=9.781946
+2026-04-21,04:09:49 | INFO |   Batch 5400 / 5959: loss=0.821857 cross_entropy_loss=9.414591
+2026-04-21,04:09:51 | INFO |   Batch 5600 / 5959: loss=0.797082 cross_entropy_loss=9.494472
+2026-04-21,04:09:52 | INFO |   Batch 5800 / 5959: loss=0.816063 cross_entropy_loss=9.504240
+2026-04-21,04:09:54 | INFO | Evaluating on validation set
+2026-04-21,04:09:54 | INFO |   Batch 0 / 745: loss=9.908941
+2026-04-21,04:09:54 | INFO |   Batch 200 / 745: loss=9.799217
+2026-04-21,04:09:54 | INFO |   Batch 400 / 745: loss=10.058897
+2026-04-21,04:09:55 | INFO |   Batch 600 / 745: loss=9.671811
+2026-04-21,04:09:55 | INFO | exp4_cfg02_scent_warmup_ref | epoch=12 train_ce=9.643667 val_loss=9.908170 val_acc=0.261101 best_val_acc=0.261101 best_test_acc=0.000000
+2026-04-21,04:09:56 | INFO | exp4_cfg02_scent_warmup_ref | Epoch 13/20, learning_rate=0.000658
+2026-04-21,04:09:56 | INFO |   Batch 0 / 5959: loss=0.870648 cross_entropy_loss=9.705376
+2026-04-21,04:09:57 | INFO |   Batch 200 / 5959: loss=0.850798 cross_entropy_loss=9.424774
+2026-04-21,04:09:59 | INFO |   Batch 400 / 5959: loss=0.828326 cross_entropy_loss=9.290627
+2026-04-21,04:10:01 | INFO |   Batch 600 / 5959: loss=0.889626 cross_entropy_loss=9.818508
+2026-04-21,04:10:02 | INFO |   Batch 800 / 5959: loss=0.857179 cross_entropy_loss=9.625758
+2026-04-21,04:10:04 | INFO |   Batch 1000 / 5959: loss=0.876104 cross_entropy_loss=9.657227
+2026-04-21,04:10:05 | INFO |   Batch 1200 / 5959: loss=0.860834 cross_entropy_loss=9.704755
+2026-04-21,04:10:07 | INFO |   Batch 1400 / 5959: loss=0.856123 cross_entropy_loss=9.659310
+2026-04-21,04:10:09 | INFO |   Batch 1600 / 5959: loss=0.822117 cross_entropy_loss=9.220648
+2026-04-21,04:10:10 | INFO |   Batch 1800 / 5959: loss=0.853131 cross_entropy_loss=9.704575
+2026-04-21,04:10:12 | INFO |   Batch 2000 / 5959: loss=0.848924 cross_entropy_loss=9.471118
+2026-04-21,04:10:13 | INFO |   Batch 2200 / 5959: loss=0.842020 cross_entropy_loss=9.527189
+2026-04-21,04:10:15 | INFO |   Batch 2400 / 5959: loss=0.843076 cross_entropy_loss=9.353999
+2026-04-21,04:10:17 | INFO |   Batch 2600 / 5959: loss=0.816626 cross_entropy_loss=9.330044
+2026-04-21,04:10:18 | INFO |   Batch 2800 / 5959: loss=0.865793 cross_entropy_loss=9.768766
+2026-04-21,04:10:20 | INFO |   Batch 3000 / 5959: loss=0.841128 cross_entropy_loss=9.415493
+2026-04-21,04:10:22 | INFO |   Batch 3200 / 5959: loss=0.860209 cross_entropy_loss=9.863479
+2026-04-21,04:10:23 | INFO |   Batch 3400 / 5959: loss=0.838556 cross_entropy_loss=9.546381
+2026-04-21,04:10:25 | INFO |   Batch 3600 / 5959: loss=0.866550 cross_entropy_loss=9.718670
+2026-04-21,04:10:26 | INFO |   Batch 3800 / 5959: loss=0.854545 cross_entropy_loss=9.612350
+2026-04-21,04:10:28 | INFO |   Batch 4000 / 5959: loss=0.864184 cross_entropy_loss=9.996122
+2026-04-21,04:10:30 | INFO |   Batch 4200 / 5959: loss=0.845138 cross_entropy_loss=9.752518
+2026-04-21,04:10:31 | INFO |   Batch 4400 / 5959: loss=0.830174 cross_entropy_loss=9.602608
+2026-04-21,04:10:33 | INFO |   Batch 4600 / 5959: loss=0.815641 cross_entropy_loss=9.416553
+2026-04-21,04:10:35 | INFO |   Batch 4800 / 5959: loss=0.870659 cross_entropy_loss=9.788717
+2026-04-21,04:10:36 | INFO |   Batch 5000 / 5959: loss=0.810295 cross_entropy_loss=9.452233
+2026-04-21,04:10:38 | INFO |   Batch 5200 / 5959: loss=0.828974 cross_entropy_loss=9.504469
+2026-04-21,04:10:39 | INFO |   Batch 5400 / 5959: loss=0.839154 cross_entropy_loss=9.534069
+2026-04-21,04:10:41 | INFO |   Batch 5600 / 5959: loss=0.786910 cross_entropy_loss=8.861313
+2026-04-21,04:10:43 | INFO |   Batch 5800 / 5959: loss=0.840129 cross_entropy_loss=9.563403
+2026-04-21,04:10:44 | INFO | Evaluating on validation set
+2026-04-21,04:10:44 | INFO |   Batch 0 / 745: loss=9.846173
+2026-04-21,04:10:44 | INFO |   Batch 200 / 745: loss=9.736182
+2026-04-21,04:10:45 | INFO |   Batch 400 / 745: loss=10.001061
+2026-04-21,04:10:45 | INFO |   Batch 600 / 745: loss=9.602306
+2026-04-21,04:10:45 | INFO | exp4_cfg02_scent_warmup_ref | epoch=13 train_ce=9.560423 val_loss=9.847417 val_acc=0.262454 best_val_acc=0.262454 best_test_acc=0.000000
+2026-04-21,04:10:46 | INFO | exp4_cfg02_scent_warmup_ref | Epoch 14/20, learning_rate=0.000500
+2026-04-21,04:10:46 | INFO |   Batch 0 / 5959: loss=0.894812 cross_entropy_loss=9.878063
+2026-04-21,04:10:48 | INFO |   Batch 200 / 5959: loss=0.866809 cross_entropy_loss=9.392242
+2026-04-21,04:10:49 | INFO |   Batch 400 / 5959: loss=0.849583 cross_entropy_loss=9.345999
+2026-04-21,04:10:51 | INFO |   Batch 600 / 5959: loss=0.907699 cross_entropy_loss=9.807225
+2026-04-21,04:10:52 | INFO |   Batch 800 / 5959: loss=0.888463 cross_entropy_loss=9.786961
+2026-04-21,04:10:54 | INFO |   Batch 1000 / 5959: loss=0.865001 cross_entropy_loss=9.566501
+2026-04-21,04:10:56 | INFO |   Batch 1200 / 5959: loss=0.835002 cross_entropy_loss=9.349340
+2026-04-21,04:10:57 | INFO |   Batch 1400 / 5959: loss=0.874222 cross_entropy_loss=9.516853
+2026-04-21,04:10:59 | INFO |   Batch 1600 / 5959: loss=0.856192 cross_entropy_loss=9.423004
+2026-04-21,04:11:01 | INFO |   Batch 1800 / 5959: loss=0.842343 cross_entropy_loss=9.285559
+2026-04-21,04:11:02 | INFO |   Batch 2000 / 5959: loss=0.860389 cross_entropy_loss=9.492805
+2026-04-21,04:11:04 | INFO |   Batch 2200 / 5959: loss=0.898251 cross_entropy_loss=9.649776
+2026-04-21,04:11:05 | INFO |   Batch 2400 / 5959: loss=0.865927 cross_entropy_loss=9.415092
+2026-04-21,04:11:07 | INFO |   Batch 2600 / 5959: loss=0.840364 cross_entropy_loss=9.007574
+2026-04-21,04:11:09 | INFO |   Batch 2800 / 5959: loss=0.882998 cross_entropy_loss=9.881281
+2026-04-21,04:11:10 | INFO |   Batch 3000 / 5959: loss=0.815408 cross_entropy_loss=8.896621
+2026-04-21,04:11:12 | INFO |   Batch 3200 / 5959: loss=0.862865 cross_entropy_loss=9.565227
+2026-04-21,04:11:14 | INFO |   Batch 3400 / 5959: loss=0.880133 cross_entropy_loss=9.658459
+2026-04-21,04:11:15 | INFO |   Batch 3600 / 5959: loss=0.868436 cross_entropy_loss=9.653404
+2026-04-21,04:11:17 | INFO |   Batch 3800 / 5959: loss=0.822939 cross_entropy_loss=9.116697
+2026-04-21,04:11:18 | INFO |   Batch 4000 / 5959: loss=0.849620 cross_entropy_loss=9.520159
+2026-04-21,04:11:20 | INFO |   Batch 4200 / 5959: loss=0.859002 cross_entropy_loss=9.479738
+2026-04-21,04:11:22 | INFO |   Batch 4400 / 5959: loss=0.856743 cross_entropy_loss=9.626450
+2026-04-21,04:11:23 | INFO |   Batch 4600 / 5959: loss=0.872262 cross_entropy_loss=9.490836
+2026-04-21,04:11:25 | INFO |   Batch 4800 / 5959: loss=0.862949 cross_entropy_loss=9.650691
+2026-04-21,04:11:26 | INFO |   Batch 5000 / 5959: loss=0.886469 cross_entropy_loss=9.700392
+2026-04-21,04:11:28 | INFO |   Batch 5200 / 5959: loss=0.881684 cross_entropy_loss=9.541298
+2026-04-21,04:11:30 | INFO |   Batch 5400 / 5959: loss=0.879089 cross_entropy_loss=9.736662
+2026-04-21,04:11:31 | INFO |   Batch 5600 / 5959: loss=0.876066 cross_entropy_loss=9.802895
+2026-04-21,04:11:33 | INFO |   Batch 5800 / 5959: loss=0.875846 cross_entropy_loss=9.887349
+2026-04-21,04:11:34 | INFO | Evaluating on validation set
+2026-04-21,04:11:34 | INFO |   Batch 0 / 745: loss=9.796151
+2026-04-21,04:11:35 | INFO |   Batch 200 / 745: loss=9.686667
+2026-04-21,04:11:35 | INFO |   Batch 400 / 745: loss=9.955648
+2026-04-21,04:11:35 | INFO |   Batch 600 / 745: loss=9.547049
+2026-04-21,04:11:36 | INFO | exp4_cfg02_scent_warmup_ref | epoch=14 train_ce=9.493448 val_loss=9.799622 val_acc=0.262842 best_val_acc=0.262842 best_test_acc=0.000000
+2026-04-21,04:11:36 | INFO | exp4_cfg02_scent_warmup_ref | Epoch 15/20, learning_rate=0.000357
+2026-04-21,04:11:36 | INFO |   Batch 0 / 5959: loss=0.886436 cross_entropy_loss=9.457401
+2026-04-21,04:11:38 | INFO |   Batch 200 / 5959: loss=0.862074 cross_entropy_loss=9.219521
+2026-04-21,04:11:40 | INFO |   Batch 400 / 5959: loss=0.907065 cross_entropy_loss=9.468431
+2026-04-21,04:11:41 | INFO |   Batch 600 / 5959: loss=0.880185 cross_entropy_loss=9.357058
+2026-04-21,04:11:43 | INFO |   Batch 800 / 5959: loss=0.922685 cross_entropy_loss=9.996927
+2026-04-21,04:11:44 | INFO |   Batch 1000 / 5959: loss=0.854276 cross_entropy_loss=9.013824
+2026-04-21,04:11:46 | INFO |   Batch 1200 / 5959: loss=0.877145 cross_entropy_loss=9.476171
+2026-04-21,04:11:48 | INFO |   Batch 1400 / 5959: loss=0.842121 cross_entropy_loss=9.183765
+2026-04-21,04:11:49 | INFO |   Batch 1600 / 5959: loss=0.864510 cross_entropy_loss=9.346905
+2026-04-21,04:11:51 | INFO |   Batch 1800 / 5959: loss=0.884793 cross_entropy_loss=9.480183
+2026-04-21,04:11:53 | INFO |   Batch 2000 / 5959: loss=0.842926 cross_entropy_loss=9.051222
+2026-04-21,04:11:54 | INFO |   Batch 2200 / 5959: loss=0.890463 cross_entropy_loss=9.270640
+2026-04-21,04:11:56 | INFO |   Batch 2400 / 5959: loss=0.856962 cross_entropy_loss=9.107244
+2026-04-21,04:11:57 | INFO |   Batch 2600 / 5959: loss=0.854881 cross_entropy_loss=9.263601
+2026-04-21,04:11:59 | INFO |   Batch 2800 / 5959: loss=0.898259 cross_entropy_loss=9.650302
+2026-04-21,04:12:01 | INFO |   Batch 3000 / 5959: loss=0.894414 cross_entropy_loss=9.543782
+2026-04-21,04:12:02 | INFO |   Batch 3200 / 5959: loss=0.838540 cross_entropy_loss=9.018171
+2026-04-21,04:12:04 | INFO |   Batch 3400 / 5959: loss=0.863636 cross_entropy_loss=9.226687
+2026-04-21,04:12:06 | INFO |   Batch 3600 / 5959: loss=0.878435 cross_entropy_loss=9.465363
+2026-04-21,04:12:07 | INFO |   Batch 3800 / 5959: loss=0.898268 cross_entropy_loss=9.656900
+2026-04-21,04:12:09 | INFO |   Batch 4000 / 5959: loss=0.877249 cross_entropy_loss=9.194412
+2026-04-21,04:12:10 | INFO |   Batch 4200 / 5959: loss=0.866966 cross_entropy_loss=9.465486
+2026-04-21,04:12:12 | INFO |   Batch 4400 / 5959: loss=0.876059 cross_entropy_loss=9.476219
+2026-04-21,04:12:14 | INFO |   Batch 4600 / 5959: loss=0.865049 cross_entropy_loss=9.121660
+2026-04-21,04:12:15 | INFO |   Batch 4800 / 5959: loss=0.851744 cross_entropy_loss=9.254511
+2026-04-21,04:12:17 | INFO |   Batch 5000 / 5959: loss=0.870126 cross_entropy_loss=9.553589
+2026-04-21,04:12:19 | INFO |   Batch 5200 / 5959: loss=0.858812 cross_entropy_loss=9.364311
+2026-04-21,04:12:20 | INFO |   Batch 5400 / 5959: loss=0.840069 cross_entropy_loss=9.273351
+2026-04-21,04:12:22 | INFO |   Batch 5600 / 5959: loss=0.869440 cross_entropy_loss=9.499879
+2026-04-21,04:12:23 | INFO |   Batch 5800 / 5959: loss=0.896001 cross_entropy_loss=9.668413
+2026-04-21,04:12:25 | INFO | Evaluating on validation set
+2026-04-21,04:12:25 | INFO |   Batch 0 / 745: loss=9.758078
+2026-04-21,04:12:25 | INFO |   Batch 200 / 745: loss=9.649577
+2026-04-21,04:12:25 | INFO |   Batch 400 / 745: loss=9.922016
+2026-04-21,04:12:26 | INFO |   Batch 600 / 745: loss=9.504911
+2026-04-21,04:12:26 | INFO | exp4_cfg02_scent_warmup_ref | epoch=15 train_ce=9.442003 val_loss=9.763732 val_acc=0.262590 best_val_acc=0.262842 best_test_acc=0.000000
+2026-04-21,04:12:27 | INFO | exp4_cfg02_scent_warmup_ref | Epoch 16/20, learning_rate=0.000234
+2026-04-21,04:12:27 | INFO |   Batch 0 / 5959: loss=0.918841 cross_entropy_loss=9.837827
+2026-04-21,04:12:28 | INFO |   Batch 200 / 5959: loss=0.886317 cross_entropy_loss=9.401474
+2026-04-21,04:12:30 | INFO |   Batch 400 / 5959: loss=0.937863 cross_entropy_loss=9.633429
+2026-04-21,04:12:32 | INFO |   Batch 600 / 5959: loss=0.921108 cross_entropy_loss=9.583509
+2026-04-21,04:12:33 | INFO |   Batch 800 / 5959: loss=0.876458 cross_entropy_loss=9.419518
+2026-04-21,04:12:35 | INFO |   Batch 1000 / 5959: loss=0.917488 cross_entropy_loss=9.514311
+2026-04-21,04:12:36 | INFO |   Batch 1200 / 5959: loss=0.878439 cross_entropy_loss=9.372656
+2026-04-21,04:12:38 | INFO |   Batch 1400 / 5959: loss=0.884676 cross_entropy_loss=9.266530
+2026-04-21,04:12:40 | INFO |   Batch 1600 / 5959: loss=0.891643 cross_entropy_loss=9.285575
+2026-04-21,04:12:41 | INFO |   Batch 1800 / 5959: loss=0.939478 cross_entropy_loss=9.969307
+2026-04-21,04:12:43 | INFO |   Batch 2000 / 5959: loss=0.911457 cross_entropy_loss=9.522670
+2026-04-21,04:12:45 | INFO |   Batch 2200 / 5959: loss=0.892672 cross_entropy_loss=9.471913
+2026-04-21,04:12:46 | INFO |   Batch 2400 / 5959: loss=0.897987 cross_entropy_loss=9.569025
+2026-04-21,04:12:48 | INFO |   Batch 2600 / 5959: loss=0.903772 cross_entropy_loss=9.502818
+2026-04-21,04:12:49 | INFO |   Batch 2800 / 5959: loss=0.842642 cross_entropy_loss=8.629478
+2026-04-21,04:12:51 | INFO |   Batch 3000 / 5959: loss=0.849567 cross_entropy_loss=8.874949
+2026-04-21,04:12:53 | INFO |   Batch 3200 / 5959: loss=0.857725 cross_entropy_loss=8.927851
+2026-04-21,04:12:54 | INFO |   Batch 3400 / 5959: loss=0.905575 cross_entropy_loss=9.466591
+2026-04-21,04:12:56 | INFO |   Batch 3600 / 5959: loss=0.924795 cross_entropy_loss=9.726747
+2026-04-21,04:12:57 | INFO |   Batch 3800 / 5959: loss=0.875449 cross_entropy_loss=9.300388
+2026-04-21,04:12:59 | INFO |   Batch 4000 / 5959: loss=0.859380 cross_entropy_loss=8.795421
+2026-04-21,04:13:01 | INFO |   Batch 4200 / 5959: loss=0.914868 cross_entropy_loss=9.588266
+2026-04-21,04:13:02 | INFO |   Batch 4400 / 5959: loss=0.881120 cross_entropy_loss=9.241829
+2026-04-21,04:13:04 | INFO |   Batch 4600 / 5959: loss=0.897148 cross_entropy_loss=9.504032
+2026-04-21,04:13:06 | INFO |   Batch 4800 / 5959: loss=0.952846 cross_entropy_loss=10.038939
+2026-04-21,04:13:07 | INFO |   Batch 5000 / 5959: loss=0.886741 cross_entropy_loss=9.225401
+2026-04-21,04:13:09 | INFO |   Batch 5200 / 5959: loss=0.923340 cross_entropy_loss=9.868545
+2026-04-21,04:13:10 | INFO |   Batch 5400 / 5959: loss=0.881275 cross_entropy_loss=9.364573
+2026-04-21,04:13:12 | INFO |   Batch 5600 / 5959: loss=0.850301 cross_entropy_loss=8.950748
+2026-04-21,04:13:14 | INFO |   Batch 5800 / 5959: loss=0.879370 cross_entropy_loss=9.369475
+2026-04-21,04:13:15 | INFO | Evaluating on validation set
+2026-04-21,04:13:15 | INFO |   Batch 0 / 745: loss=9.731097
+2026-04-21,04:13:15 | INFO |   Batch 200 / 745: loss=9.623631
+2026-04-21,04:13:16 | INFO |   Batch 400 / 745: loss=9.898540
+2026-04-21,04:13:16 | INFO |   Batch 600 / 745: loss=9.475047
+2026-04-21,04:13:16 | INFO | exp4_cfg02_scent_warmup_ref | epoch=16 train_ce=9.404593 val_loss=9.738541 val_acc=0.262328 best_val_acc=0.262842 best_test_acc=0.000000
+2026-04-21,04:13:17 | INFO | exp4_cfg02_scent_warmup_ref | Epoch 17/20, learning_rate=0.000134
+2026-04-21,04:13:17 | INFO |   Batch 0 / 5959: loss=0.920956 cross_entropy_loss=9.399014
+2026-04-21,04:13:19 | INFO |   Batch 200 / 5959: loss=0.924534 cross_entropy_loss=9.642916
+2026-04-21,04:13:20 | INFO |   Batch 400 / 5959: loss=0.916603 cross_entropy_loss=9.414102
+2026-04-21,04:13:22 | INFO |   Batch 600 / 5959: loss=0.915351 cross_entropy_loss=9.494208
+2026-04-21,04:13:24 | INFO |   Batch 800 / 5959: loss=0.919786 cross_entropy_loss=9.057731
+2026-04-21,04:13:25 | INFO |   Batch 1000 / 5959: loss=0.937502 cross_entropy_loss=9.598967
+2026-04-21,04:13:27 | INFO |   Batch 1200 / 5959: loss=0.918216 cross_entropy_loss=9.553789
+2026-04-21,04:13:29 | INFO |   Batch 1400 / 5959: loss=0.925596 cross_entropy_loss=9.395905
+2026-04-21,04:13:30 | INFO |   Batch 1600 / 5959: loss=0.905400 cross_entropy_loss=9.190281
+2026-04-21,04:13:32 | INFO |   Batch 1800 / 5959: loss=0.866833 cross_entropy_loss=8.613346
+2026-04-21,04:13:33 | INFO |   Batch 2000 / 5959: loss=0.926017 cross_entropy_loss=9.226389
+2026-04-21,04:13:35 | INFO |   Batch 2200 / 5959: loss=0.878577 cross_entropy_loss=8.972404
+2026-04-21,04:13:37 | INFO |   Batch 2400 / 5959: loss=0.893149 cross_entropy_loss=9.204594
+2026-04-21,04:13:38 | INFO |   Batch 2600 / 5959: loss=0.868726 cross_entropy_loss=9.089384
+2026-04-21,04:13:40 | INFO |   Batch 2800 / 5959: loss=0.924761 cross_entropy_loss=9.638284
+2026-04-21,04:13:42 | INFO |   Batch 3000 / 5959: loss=0.926906 cross_entropy_loss=9.497447
+2026-04-21,04:13:43 | INFO |   Batch 3200 / 5959: loss=0.909019 cross_entropy_loss=9.412681
+2026-04-21,04:13:45 | INFO |   Batch 3400 / 5959: loss=0.891688 cross_entropy_loss=9.040630
+2026-04-21,04:13:46 | INFO |   Batch 3600 / 5959: loss=0.915576 cross_entropy_loss=9.594343
+2026-04-21,04:13:48 | INFO |   Batch 3800 / 5959: loss=0.890997 cross_entropy_loss=9.359782
+2026-04-21,04:13:50 | INFO |   Batch 4000 / 5959: loss=0.898555 cross_entropy_loss=9.229750
+2026-04-21,04:13:51 | INFO |   Batch 4200 / 5959: loss=0.893868 cross_entropy_loss=9.212841
+2026-04-21,04:13:53 | INFO |   Batch 4400 / 5959: loss=0.894006 cross_entropy_loss=9.251998
+2026-04-21,04:13:55 | INFO |   Batch 4600 / 5959: loss=0.904076 cross_entropy_loss=9.311086
+2026-04-21,04:13:56 | INFO |   Batch 4800 / 5959: loss=0.918056 cross_entropy_loss=9.251321
+2026-04-21,04:13:58 | INFO |   Batch 5000 / 5959: loss=0.872526 cross_entropy_loss=8.991859
+2026-04-21,04:13:59 | INFO |   Batch 5200 / 5959: loss=0.878218 cross_entropy_loss=8.665998
+2026-04-21,04:14:01 | INFO |   Batch 5400 / 5959: loss=0.899677 cross_entropy_loss=9.367790
+2026-04-21,04:14:03 | INFO |   Batch 5600 / 5959: loss=0.909859 cross_entropy_loss=9.294446
+2026-04-21,04:14:04 | INFO |   Batch 5800 / 5959: loss=0.903504 cross_entropy_loss=9.484346
+2026-04-21,04:14:06 | INFO | Evaluating on validation set
+2026-04-21,04:14:06 | INFO |   Batch 0 / 745: loss=9.713940
+2026-04-21,04:14:06 | INFO |   Batch 200 / 745: loss=9.607403
+2026-04-21,04:14:06 | INFO |   Batch 400 / 745: loss=9.883947
+2026-04-21,04:14:07 | INFO |   Batch 600 / 745: loss=9.455879
+2026-04-21,04:14:07 | INFO | exp4_cfg02_scent_warmup_ref | epoch=17 train_ce=9.379668 val_loss=9.722664 val_acc=0.261877 best_val_acc=0.262842 best_test_acc=0.000000
+2026-04-21,04:14:08 | INFO | exp4_cfg02_scent_warmup_ref | Epoch 18/20, learning_rate=0.000060
+2026-04-21,04:14:08 | INFO |   Batch 0 / 5959: loss=0.905658 cross_entropy_loss=9.221977
+2026-04-21,04:14:09 | INFO |   Batch 200 / 5959: loss=0.948045 cross_entropy_loss=9.551523
+2026-04-21,04:14:11 | INFO |   Batch 400 / 5959: loss=0.913007 cross_entropy_loss=9.144692
+2026-04-21,04:14:13 | INFO |   Batch 600 / 5959: loss=0.954213 cross_entropy_loss=9.864971
+2026-04-21,04:14:14 | INFO |   Batch 800 / 5959: loss=0.933629 cross_entropy_loss=9.625202
+2026-04-21,04:14:16 | INFO |   Batch 1000 / 5959: loss=0.905026 cross_entropy_loss=9.283875
+2026-04-21,04:14:17 | INFO |   Batch 1200 / 5959: loss=0.918946 cross_entropy_loss=9.192348
+2026-04-21,04:14:19 | INFO |   Batch 1400 / 5959: loss=0.909842 cross_entropy_loss=9.078329
+2026-04-21,04:14:21 | INFO |   Batch 1600 / 5959: loss=0.955304 cross_entropy_loss=9.645884
+2026-04-21,04:14:22 | INFO |   Batch 1800 / 5959: loss=0.929409 cross_entropy_loss=9.589430
+2026-04-21,04:14:24 | INFO |   Batch 2000 / 5959: loss=0.906091 cross_entropy_loss=9.159985
+2026-04-21,04:14:26 | INFO |   Batch 2200 / 5959: loss=0.898434 cross_entropy_loss=8.896273
+2026-04-21,04:14:27 | INFO |   Batch 2400 / 5959: loss=0.943264 cross_entropy_loss=9.500574
+2026-04-21,04:14:29 | INFO |   Batch 2600 / 5959: loss=0.904726 cross_entropy_loss=9.308506
+2026-04-21,04:14:30 | INFO |   Batch 2800 / 5959: loss=0.930826 cross_entropy_loss=9.373623
+2026-04-21,04:14:32 | INFO |   Batch 3000 / 5959: loss=0.922319 cross_entropy_loss=9.241032
+2026-04-21,04:14:34 | INFO |   Batch 3200 / 5959: loss=0.936984 cross_entropy_loss=9.381478
+2026-04-21,04:14:35 | INFO |   Batch 3400 / 5959: loss=0.927839 cross_entropy_loss=9.403307
+2026-04-21,04:14:37 | INFO |   Batch 3600 / 5959: loss=0.922908 cross_entropy_loss=9.227854
+2026-04-21,04:14:38 | INFO |   Batch 3800 / 5959: loss=0.918028 cross_entropy_loss=9.371061
+2026-04-21,04:14:40 | INFO |   Batch 4000 / 5959: loss=0.928655 cross_entropy_loss=9.234316
+2026-04-21,04:14:42 | INFO |   Batch 4200 / 5959: loss=0.938157 cross_entropy_loss=9.785646
+2026-04-21,04:14:43 | INFO |   Batch 4400 / 5959: loss=0.917140 cross_entropy_loss=9.285635
+2026-04-21,04:14:45 | INFO |   Batch 4600 / 5959: loss=0.903584 cross_entropy_loss=8.943789
+2026-04-21,04:14:47 | INFO |   Batch 4800 / 5959: loss=0.958913 cross_entropy_loss=9.714990
+2026-04-21,04:14:48 | INFO |   Batch 5000 / 5959: loss=0.953875 cross_entropy_loss=9.565012
+2026-04-21,04:14:50 | INFO |   Batch 5200 / 5959: loss=0.876824 cross_entropy_loss=8.771242
+2026-04-21,04:14:51 | INFO |   Batch 5400 / 5959: loss=0.919715 cross_entropy_loss=9.422688
+2026-04-21,04:14:53 | INFO |   Batch 5600 / 5959: loss=0.908596 cross_entropy_loss=8.978143
+2026-04-21,04:14:55 | INFO |   Batch 5800 / 5959: loss=0.946016 cross_entropy_loss=9.746571
+2026-04-21,04:14:56 | INFO | Evaluating on validation set
+2026-04-21,04:14:56 | INFO |   Batch 0 / 745: loss=9.705131
+2026-04-21,04:14:56 | INFO |   Batch 200 / 745: loss=9.599184
+2026-04-21,04:14:57 | INFO |   Batch 400 / 745: loss=9.876643
+2026-04-21,04:14:57 | INFO |   Batch 600 / 745: loss=9.445984
+2026-04-21,04:14:57 | INFO | exp4_cfg02_scent_warmup_ref | epoch=18 train_ce=9.365291 val_loss=9.714586 val_acc=0.261342 best_val_acc=0.262842 best_test_acc=0.000000
+2026-04-21,04:14:58 | INFO | exp4_cfg02_scent_warmup_ref | Epoch 19/20, learning_rate=0.000015
+2026-04-21,04:14:58 | INFO |   Batch 0 / 5959: loss=0.943891 cross_entropy_loss=9.217653
+2026-04-21,04:15:00 | INFO |   Batch 200 / 5959: loss=0.953341 cross_entropy_loss=9.483561
+2026-04-21,04:15:01 | INFO |   Batch 400 / 5959: loss=0.934295 cross_entropy_loss=9.637011
+2026-04-21,04:15:03 | INFO |   Batch 600 / 5959: loss=0.952920 cross_entropy_loss=9.650492
+2026-04-21,04:15:04 | INFO |   Batch 800 / 5959: loss=0.971516 cross_entropy_loss=9.786642
+2026-04-21,04:15:06 | INFO |   Batch 1000 / 5959: loss=0.930274 cross_entropy_loss=9.193697
+2026-04-21,04:15:08 | INFO |   Batch 1200 / 5959: loss=0.934587 cross_entropy_loss=9.088850
+2026-04-21,04:15:09 | INFO |   Batch 1400 / 5959: loss=0.938364 cross_entropy_loss=9.409283
+2026-04-21,04:15:11 | INFO |   Batch 1600 / 5959: loss=0.936963 cross_entropy_loss=9.286102
+2026-04-21,04:15:13 | INFO |   Batch 1800 / 5959: loss=0.924984 cross_entropy_loss=9.008326
+2026-04-21,04:15:14 | INFO |   Batch 2000 / 5959: loss=0.952663 cross_entropy_loss=9.360870
+2026-04-21,04:15:16 | INFO |   Batch 2200 / 5959: loss=0.933671 cross_entropy_loss=9.293522
+2026-04-21,04:15:17 | INFO |   Batch 2400 / 5959: loss=0.919758 cross_entropy_loss=9.251734
+2026-04-21,04:15:19 | INFO |   Batch 2600 / 5959: loss=0.921431 cross_entropy_loss=8.975513
+2026-04-21,04:15:21 | INFO |   Batch 2800 / 5959: loss=0.946620 cross_entropy_loss=9.237671
+2026-04-21,04:15:22 | INFO |   Batch 3000 / 5959: loss=0.948371 cross_entropy_loss=9.376876
+2026-04-21,04:15:24 | INFO |   Batch 3200 / 5959: loss=0.951733 cross_entropy_loss=9.658421
+2026-04-21,04:15:26 | INFO |   Batch 3400 / 5959: loss=0.949892 cross_entropy_loss=9.654865
+2026-04-21,04:15:27 | INFO |   Batch 3600 / 5959: loss=0.974768 cross_entropy_loss=9.612375
+2026-04-21,04:15:29 | INFO |   Batch 3800 / 5959: loss=0.925573 cross_entropy_loss=9.235128
+2026-04-21,04:15:30 | INFO |   Batch 4000 / 5959: loss=0.964812 cross_entropy_loss=9.492626
+2026-04-21,04:15:32 | INFO |   Batch 4200 / 5959: loss=0.925005 cross_entropy_loss=9.086730
+2026-04-21,04:15:34 | INFO |   Batch 4400 / 5959: loss=0.925792 cross_entropy_loss=9.248320
+2026-04-21,04:15:35 | INFO |   Batch 4600 / 5959: loss=0.920838 cross_entropy_loss=9.079571
+2026-04-21,04:15:37 | INFO |   Batch 4800 / 5959: loss=0.941615 cross_entropy_loss=8.939486
+2026-04-21,04:15:38 | INFO |   Batch 5000 / 5959: loss=0.955479 cross_entropy_loss=9.506037
+2026-04-21,04:15:40 | INFO |   Batch 5200 / 5959: loss=0.944138 cross_entropy_loss=9.405306
+2026-04-21,04:15:42 | INFO |   Batch 5400 / 5959: loss=0.955278 cross_entropy_loss=9.720057
+2026-04-21,04:15:43 | INFO |   Batch 5600 / 5959: loss=0.934302 cross_entropy_loss=9.318173
+2026-04-21,04:15:45 | INFO |   Batch 5800 / 5959: loss=0.922777 cross_entropy_loss=9.028680
+2026-04-21,04:15:46 | INFO | Evaluating on validation set
+2026-04-21,04:15:46 | INFO |   Batch 0 / 745: loss=9.702518
+2026-04-21,04:15:47 | INFO |   Batch 200 / 745: loss=9.596782
+2026-04-21,04:15:47 | INFO |   Batch 400 / 745: loss=9.874538
+2026-04-21,04:15:47 | INFO |   Batch 600 / 745: loss=9.443041
+2026-04-21,04:15:48 | INFO | exp4_cfg02_scent_warmup_ref | epoch=19 train_ce=9.359091 val_loss=9.712217 val_acc=0.261195 best_val_acc=0.262842 best_test_acc=0.000000
+2026-04-21,04:15:48 | INFO | exp4_cfg02_scent_warmup_ref | Epoch 20/20, learning_rate=0.000000
+2026-04-21,04:15:48 | INFO |   Batch 0 / 5959: loss=0.954334 cross_entropy_loss=9.185999
+2026-04-21,04:15:50 | INFO |   Batch 200 / 5959: loss=0.945456 cross_entropy_loss=9.032537
+2026-04-21,04:15:52 | INFO |   Batch 400 / 5959: loss=0.954235 cross_entropy_loss=8.897849
+2026-04-21,04:15:53 | INFO |   Batch 600 / 5959: loss=0.960215 cross_entropy_loss=9.464718
+2026-04-21,04:15:55 | INFO |   Batch 800 / 5959: loss=0.943742 cross_entropy_loss=9.012957
+2026-04-21,04:15:56 | INFO |   Batch 1000 / 5959: loss=0.952996 cross_entropy_loss=9.348697
+2026-04-21,04:15:58 | INFO |   Batch 1200 / 5959: loss=0.963211 cross_entropy_loss=9.330564
+2026-04-21,04:16:00 | INFO |   Batch 1400 / 5959: loss=0.952276 cross_entropy_loss=8.904150
+2026-04-21,04:16:01 | INFO |   Batch 1600 / 5959: loss=0.960516 cross_entropy_loss=9.731246
+2026-04-21,04:16:03 | INFO |   Batch 1800 / 5959: loss=0.961252 cross_entropy_loss=9.510578
+2026-04-21,04:16:05 | INFO |   Batch 2000 / 5959: loss=0.956641 cross_entropy_loss=8.940484
+2026-04-21,04:16:06 | INFO |   Batch 2200 / 5959: loss=0.933528 cross_entropy_loss=9.098455
+2026-04-21,04:16:08 | INFO |   Batch 2400 / 5959: loss=0.941941 cross_entropy_loss=9.043007
+2026-04-21,04:16:09 | INFO |   Batch 2600 / 5959: loss=0.986415 cross_entropy_loss=10.020700
+2026-04-21,04:16:11 | INFO |   Batch 2800 / 5959: loss=0.958493 cross_entropy_loss=9.519699
+2026-04-21,04:16:13 | INFO |   Batch 3000 / 5959: loss=0.953064 cross_entropy_loss=9.097595
+2026-04-21,04:16:14 | INFO |   Batch 3200 / 5959: loss=0.955844 cross_entropy_loss=9.113678
+2026-04-21,04:16:16 | INFO |   Batch 3400 / 5959: loss=0.947212 cross_entropy_loss=9.261969
+2026-04-21,04:16:18 | INFO |   Batch 3600 / 5959: loss=0.962028 cross_entropy_loss=9.792345
+2026-04-21,04:16:19 | INFO |   Batch 3800 / 5959: loss=0.956057 cross_entropy_loss=9.454029
+2026-04-21,04:16:21 | INFO |   Batch 4000 / 5959: loss=0.957085 cross_entropy_loss=9.643617
+2026-04-21,04:16:22 | INFO |   Batch 4200 / 5959: loss=0.945015 cross_entropy_loss=9.301017
+2026-04-21,04:16:24 | INFO |   Batch 4400 / 5959: loss=0.919335 cross_entropy_loss=8.938833
+2026-04-21,04:16:26 | INFO |   Batch 4600 / 5959: loss=0.974148 cross_entropy_loss=9.394972
+2026-04-21,04:16:27 | INFO |   Batch 4800 / 5959: loss=0.941683 cross_entropy_loss=9.169325
+2026-04-21,04:16:29 | INFO |   Batch 5000 / 5959: loss=0.955641 cross_entropy_loss=9.254395
+2026-04-21,04:16:30 | INFO |   Batch 5200 / 5959: loss=0.953704 cross_entropy_loss=9.549300
+2026-04-21,04:16:32 | INFO |   Batch 5400 / 5959: loss=0.983246 cross_entropy_loss=9.731180
+2026-04-21,04:16:34 | INFO |   Batch 5600 / 5959: loss=0.964972 cross_entropy_loss=9.674856
+2026-04-21,04:16:35 | INFO |   Batch 5800 / 5959: loss=0.934276 cross_entropy_loss=9.207478
+2026-04-21,04:16:37 | INFO | Evaluating on validation set
+2026-04-21,04:16:37 | INFO |   Batch 0 / 745: loss=9.702518
+2026-04-21,04:16:37 | INFO |   Batch 200 / 745: loss=9.596782
+2026-04-21,04:16:37 | INFO |   Batch 400 / 745: loss=9.874538
+2026-04-21,04:16:38 | INFO |   Batch 600 / 745: loss=9.443041
+2026-04-21,04:16:38 | INFO | exp4_cfg02_scent_warmup_ref | epoch=20 train_ce=9.357689 val_loss=9.712217 val_acc=0.261195 best_val_acc=0.262842 best_test_acc=0.000000
