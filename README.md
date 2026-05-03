@@ -27,7 +27,7 @@ Outputs for each notebook are saved in separate output folders.
 
 ```text
 .
-├── exp_1.ipynb
+├── exp_1_regularization.ipynb
 ├── exp_2_storm_primal.ipynb
 ├── exp_3_msvr_dual.ipynb
 ├── exp_4_taxonomic_sampling.ipynb
@@ -75,7 +75,7 @@ Typical setup:
 
 ## Experiment summary
 
-## Experiment 1 — `exp_1.ipynb`
+## Experiment 1 — `exp_1_regularization.ipynb`
 ### Purpose
 This notebook implements the main **factorial ablation study** from the proposal.
 
@@ -227,7 +227,7 @@ Therefore, the final conclusion of this project is:
 ### Run order
 Recommended order:
 
-1. Run `exp_1.ipynb`
+1. Run `exp_1_regularization.ipynb`
 2. Run `exp_2_storm_primal.ipynb`
 3. Run `exp_3_msvr_dual.ipynb`
 4. Run `exp_4_taxonomic_sampling.ipynb`
