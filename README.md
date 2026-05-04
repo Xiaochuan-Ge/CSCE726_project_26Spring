@@ -32,6 +32,7 @@ Outputs for each notebook are saved in separate output folders.
 ├── exp_3_msvr_dual.ipynb
 ├── exp_4_taxonomic_sampling.ipynb
 ├── exp_5_final_selection.ipynb
+├── exp_6_final_selection.ipynb
 ├── outputs/                     # exp_1 outputs
 ├── outputs_exp2_storm/         # exp_2 outputs
 ├── outputs_exp3_msvr/          # exp_3 outputs
@@ -191,6 +192,7 @@ The post-hoc evaluation adjustment could change validation loss, but it did not 
 
 ---
 
+
 ## Final conclusion
 
 Across the five experiments, the most successful modification was:
@@ -274,3 +276,20 @@ and use:
 - **`exp5_cfg02_scent_warmup_final`**
 
 as the final selected model.
+
+---
+
+## Experiment 6 — `exp_6_final_selection.ipynb`
+
+### Purpose
+Testing a variant of experiment 3 for better performance. 
+
+### What was tested
+A small final comparison among:
+- plain SCENT
+- SCENT + warmup
+- SCENT + warmup + post-hoc evaluation adjustment
+
+### Result
+We think that the propsed algorithm MSVR II could beat vanilla SCENT somehow.
+
