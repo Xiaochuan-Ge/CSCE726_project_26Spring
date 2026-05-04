@@ -232,6 +232,7 @@ Recommended order:
 3. Run `exp_3_msvr_dual.ipynb`
 4. Run `exp_4_taxonomic_sampling.ipynb`
 5. Run `exp_5_final_selection.ipynb`
+6. Run `exp_6_final_selection.ipynb`
 
 ### Re-running experiments
 Each notebook writes JSONL logs and checkpoint files.  
