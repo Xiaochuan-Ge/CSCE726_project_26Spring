@@ -5,7 +5,8 @@ This repo studies practical modifications of **SCENT** for extreme classificatio
 
 ## Model Download
 
-We keep the model from the last epoch for every experiment. You can [download our model here](https://drive.google.com/file/d/11bWb_-FRdTiVW-QHUKEACDxXuT46zpXd/view?usp=sharing).
+We keep the model from the last epoch for every experiment. You can [download our model for experiments 1-5 here](https://drive.google.com/file/d/11bWb_-FRdTiVW-QHUKEACDxXuT46zpXd/view?usp=sharing), [Model 6 here](https://drive.google.com/file/d/1U_Y2QsRHPqXNVoJh-SWhmNoQQyXbFRfQ/view?usp=share_link)
+
 
 ## Project goal
 
